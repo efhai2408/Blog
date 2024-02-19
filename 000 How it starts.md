@@ -68,7 +68,7 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 	- references from outsources are provided in this blog
 		- One of it comes from ==FB page: IOT engineering education==
 			- Aj.Priyakorn suggest that this is good page for CPE students.
-	- one example reminds me of [youtube video](https://youtube.com/shorts/fflbel1uvxA?si=AX2C0X71Z6xPBthJ) that [some channel](https://www.youtube.com/@UwosLab) make christmas tree that glowing when someone send him messages.
+	- one example reminds me of [youtube video](https://youtube.com/shorts/fflbel1uvxA?si=AX2C0X71Z6xPBthJ) that [some channel](https://www.youtube.com/@UwosLab) make christmas tree that glows when someone sends him messages.
 		-   [Vtuber makes chat operated christmas lights](https://youtube.com/shorts/fflbel1uvxA?si=AX2C0X71Z6xPBthJ)
 - `Aj.Priyakorn's recommendation about blog post`
 	- describe lecture
@@ -162,7 +162,7 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 
 - NOISE : BACC event that ESIC lab and some ppl from fab lab were involved.
 	-  [NOISE](https://www.facebook.com/ESICLAB/posts/pfbid02QqacPaMFX92cjQHSQ1F2imSpBAQ3Ap8xgK9nNtfZP83dsV2PuMHuebMgUuXTenYLl)
-- [some channel](https://www.youtube.com/@UwosLab) made Christmas tree that glowing when someone send him messages.
+- [some channel](https://www.youtube.com/@UwosLab) made Christmas tree that glows when someone sends him messages.
 	- [Vtuber makes chat operated christmas lights](https://youtube.com/shorts/fflbel1uvxA?si=AX2C0X71Z6xPBthJ)
 - [How a Harvard Professor Makes Transforming Toys & Designs | WIRED](https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C)
 	- https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C
