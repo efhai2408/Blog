@@ -53,14 +53,14 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 					- [How a Harvard Professor Makes Transforming Toys & Designs | WIRED](https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C)
 					- <iframe width="560" height="315" src="https://www.youtube.com/embed/xN9hTo3iR6A?si=L2fPjjZhRHax7LgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # 3. Encounter
-- Aj.Priyakorn talk about ==BACC event== that ESIC lab and some ppl from fab lab were involved.
+- Aj.Priyakorn talk about `BACC event` that ESIC lab and some ppl from fab lab were involved.
 	-  [NOISE](https://www.facebook.com/ESICLAB/posts/pfbid02QqacPaMFX92cjQHSQ1F2imSpBAQ3Ap8xgK9nNtfZP83dsV2PuMHuebMgUuXTenYLl)
 	- She invited us to that exhibition
 - this class is taught in english because some international program students enroll this course.
-- ==We need to write weekly blog==.
+- `We need to write weekly blog`.
 - 1 student in this class present her assignment from previous week
 	- she write her blog in notion
-		- This ==remind me== of my old time when I used this software to journaling around 2-3 years ago, and used it to colaborate, write log book with my teammate during internship.
+		- This `remind me` of my old time when I used this software to journaling around 2-3 years ago, and used it to colaborate, write log book with my teammate during internship.
 		- This software is great tool for publish idea and write personal blog post because this software is packed with many features that let everyone customize their personal note and databased for free, in fully sync cloud.
 		- By the way, I prefer obsidian markdown editor for personal notes, 2nd brain notes that I didn’t planned to publish, because of it’s customizable, and let us own all of my data in markdown format that I not gonna lost it if something bad happen with the company.
 	- she write about particle photon iot microcontroller.
@@ -70,7 +70,7 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 			- Aj.Priyakorn suggest that this is good page for CPE students.
 	- one example reminds me of [youtube video](https://youtube.com/shorts/fflbel1uvxA?si=AX2C0X71Z6xPBthJ) that [some channel](https://www.youtube.com/@UwosLab) make christmas tree that glowing when someone send him messages.
 		-   [Vtuber makes chat operated christmas lights](https://youtube.com/shorts/fflbel1uvxA?si=AX2C0X71Z6xPBthJ)
-- ==Aj.Priyakorn's recommendation about blog post==
+- `Aj.Priyakorn's recommendation about blog post`
 	- describe lecture
 		- try not to be in ECHO chamber
 	- put your idea 
@@ -79,17 +79,17 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 			- its like u construct your portfolio
 	- example+experiment+explore new things
 	- extra knowledge with references
-- Aj.Priyakorn talk about ==why we must merge sci with arts==
+- Aj.Priyakorn talk about `why we must merge sci with arts`
 	- one prime example for me is leonardo darvinci
 		- Aj.Priyakorn expand my concept
 			- back then when she still studying, she has been told to study about his works for 1 years 
-- I interested in ==Human-Centric Design Thinking Process==
-- expand ==interactive concept(1 of main idea of this course)==
+- I interested in `Human-Centric Design Thinking Process`
+- expand `interactive concept(1 of main idea of this course`
 	- feedback 
 	- action-reaction loops
 	- interactivity
 		- cyclic process 
-- ==course outcome- what to expected== 
+- `course outcome- what to expected` 
 	- integrate, installation our tech made with hardware and interactive software in museums
 		- coding, write some program
 		- create interactive software design in the form of
@@ -103,12 +103,12 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 			- simple microcontrollers
 			- mechanic in some cases
 				- kinetic object kinetic exhibition
-					- ==leonardo davinci focus on kinetic things==
+					- `leonardo davinci focus on kinetic things`
 				- remind me of yt video Harvard prof makes transforming toys & designs
 					- https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C
 - we will also have to learn about VR AR MR XR techs (immersive techs)
 	- in storywise fb page, there is AR application that let u went back in ancient time used in bangkok design weeks
-- this course we will focus on ==deconstruct== and ==reverse engineering== many techs 
+- this course we will focus on `deconstruct` and `reverse engineering` many techs 
 	- approach by hand on project and class discussion
 	- suggestion: where what whom how to build and construct
 - some examples 
@@ -116,7 +116,7 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 		- invented new unorthodox way to do thai dance
 			- No.60
 		- collab with ESIC lab and pp pat from MIT media lab
-		- ==remind:== several months ago, Phoomparin Mano also mention about this work at LX center in his talk session about Learning how to learn
+		- `remind:` several months ago, Phoomparin Mano also mention about this work at LX center in his talk session about Learning how to learn
 	- Investory interactive museum
 - How we will design our work
 	- by UML diagram, use-case diagram, flowchart
@@ -139,15 +139,15 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 		- thai health center active tunnel
 		- พลิ้ว eat in soi, interactive tunnel with vibration sensor
 		- cloud, chiangmai design week
-		- ==synergetic lotus==, thailand kingdom of light
+		- `synergetic lotus` thailand kingdom of light
 			- not interactive but cool !
-		- ==led archway, Chang(Thai Beer Brand) pavilion central world==, beer drinker
+		- `led archway, Chang(Thai Beer Brand) pavilion central world` beer drinker
 			- show how wide our collaboration choices are lol
-		- ==zero impact interactive billboard ziib==, big project involved with 40+ ppl, 1st bangkok week
+		- `zero impact interactive billboard ziib` big project involved with 40+ ppl, 1st bangkok week
 			- one big project that require collaboration of entire class of that year to make big screen powered by bicycle, materials will be recycle after finish the show 
 		- ==led dance costume==
 			- for show in singapore
-		- future fashion with ==geothe institut==
+		- future fashion with `geothe institut`
 		- chairs that glowing when someone sit
 			- pressure sensor ?
 - lilypad arduino 328
@@ -167,3 +167,4 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 - [How a Harvard Professor Makes Transforming Toys & Designs | WIRED](https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C)
 	- https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
