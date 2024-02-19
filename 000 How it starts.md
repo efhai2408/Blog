@@ -51,7 +51,7 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 					- ==leonardo davinci focus on kinetic things==
 				- remind me of yt video Harvard prof makes transforming toys & designs
 					- [How a Harvard Professor Makes Transforming Toys & Designs | WIRED](https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C)
-					- <iframe width="560" height="315" src="https://www.youtube.com/embed/xN9hTo3iR6A?si=L2fPjjZhRHax7LgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					- [![Watch the video](https://img.youtube.com/vi/xN9hTo3iR6A/maxresdefault.jpg)](https://youtu.be/xN9hTo3iR6A)
 # 3. Encounter
 - Aj.Priyakorn talk about `BACC event` that ESIC lab and some ppl from fab lab were involved.
 	-  [NOISE](https://www.facebook.com/ESICLAB/posts/pfbid02QqacPaMFX92cjQHSQ1F2imSpBAQ3Ap8xgK9nNtfZP83dsV2PuMHuebMgUuXTenYLl)
@@ -167,4 +167,3 @@ unimportant remarks: I will write this blog in English by 2 main reasons
 - [How a Harvard Professor Makes Transforming Toys & Designs | WIRED](https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C)
 	- https://youtu.be/xN9hTo3iR6A?si=LYSUKlFDkW0_766C
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
