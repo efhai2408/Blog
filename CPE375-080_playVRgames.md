@@ -24,6 +24,7 @@ Funfact: บทความนี้เขียนด้วยมือถื�
 [![Watch the video](https://img.youtube.com/vi/vrS86l_CtAY/maxresdefault.jpg)](https://youtu.be/vrS86l_CtAY)
 
 - https://youtu.be/vrS86l_CtAY
+- <iframe width="1257" height="707" src="https://www.youtube.com/embed/vrS86l_CtAY" title="SUPERHOT - Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Beat Saber เป็นเกมที่ผมอยากเล่นมากที่สุด เป็น rhythm game ที่ดูคลิปคนเขาเล่นเพลงยากๆ แล้วทั้งดูเท่ห์และน่าสนุกเอามาก ๆ คาดว่าจบกระบวนท่าแต่ละ session น่าจะผลาญพลังงานเยอะพอสมควร   
 สำหรับใครที่อยากจะเป็น Healthy gamer เล่นเกมแล้วได้ทั้งฟังเพลง ฝึก reflex แถมยังได้เรื่องสุขภาพ ต้องเกมนี้เลย  
