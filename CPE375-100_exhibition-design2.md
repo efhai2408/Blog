@@ -1,3 +1,7 @@
+date: 2024-03-22
+time: 23:09
+---
+
 - this class occurs on 2024-03-19
 - in this week, we deep drive into more details about exhibition design
 - Aj.Priyakorn suggest us to learn more from the slide from previous weeks 
