@@ -12,7 +12,7 @@ Can be programmed by many languages; Arduino, MicroPython, CircuitPython
 
 
 I guess many of us here are somewhat interested in AI and machine learning techs. This board was designed specifically for those tasks and IOT applications. 
-For IOT applications, this board embedded with bluetooth module, and for ML&AI application, this board embedded with 2 useful sensor for those kind of tasks, the first one is Pulse Density Modulation (PDM) Digital Microphone that is useful in recording or voice recognition tasks, the second one is 
+For IOT applications, this board embedded with bluetooth module, and for ML&AI application, this board embedded with 2 useful sensor for those kind of tasks, the first one is Pulse Density Modulation (PDM) Digital Microphone that is useful in recording or voice recognition tasks, the second one is LSM6DS3TR-C, an inertial measurement unit (IMU) sensor that is helpful in gesture recognition tasks.
 
 # Some interesting and Remarkable applications
 - Bluetooth Robot
@@ -25,5 +25,7 @@ For IOT applications, this board embedded with bluetooth module, and for ML&AI a
 Number of pins
 With the number of pins (14 pins) is less than many boards with similar applications, e.g. Arduino Nano board has 22 pins and nice!nano board has 23 pins, this board might not be the best option in very complex tasks that require many pins.
 # References
-https://wiki.seeedstudio.com/XIAO_BLE/
+
+https://wiki.seeedstudio.com/XIAO_BLE/ 
+
 https://youtu.be/vrcPGeYinVQ?si=ZH9rXFYduLzatEcQ
