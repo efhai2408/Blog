@@ -28,9 +28,9 @@ https://youtu.be/gT_8rx2MRzg
 
 [![Watch the video](https://img.youtube.com/vi/gT_8rx2MRzg/maxresdefault.jpg)](https://youtu.be/gT_8rx2MRzg)
 
-[![Watch the video](https://img.youtube.com/shorts/-r9YUDoAz1g/maxresdefault.jpg)](https://youtu.be/shorts/-r9YUDoAz1g)
+[![Watch the video](https://img.youtube.com/shorts/-r9YUDoAz1g?si=98pKfI7bgdSWXCmO/maxresdefault.jpg)](https://youtube.com/shorts/-r9YUDoAz1g?si=98pKfI7bgdSWXCmO)
 
-https://youtube.com/shorts/-r9YUDoAz1g?si=5MjAT51DnJH9nrRI  
+https://youtube.com/shorts/-r9YUDoAz1g?si=98pKfI7bgdSWXCmO
 
 อาจารย์ให้นักเรียนทั้ง section แบ่งกลุ่มออกเป็น 4 กลุ่มย่อย เกาะกลุ่มกันเป็น zone ของใครของมัน มีโต๊ะวางเป็นกำแพงกั้น (เพราะการเล่น VR ต้องระวังเรื่องอาณาเขตปนกัน ป้องกันเล่น ๆ ไปเกิดอุบัติเหตุ)  
 ผมได้จับกลุ่มอยู่กับ มิตรสหายปี 3 ภาคปก, ปี 3 อินเตอร์ กับเด็กแลกเปลี่ยนจากฟิลิปปินส์   
