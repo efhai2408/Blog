@@ -26,7 +26,7 @@ Beat Saber เป็นเกมที่ผมอยากเล่นมาก
 
 [![Watch the video](https://img.youtube.com/vi/gT_8rx2MRzg/maxresdefault.jpg)](https://youtu.be/gT_8rx2MRzg)
 
-[![Watch the video](https://img.youtube.comshorts/-r9YUDoAz1g/maxresdefault.jpg)](https://youtu.be/shorts/-r9YUDoAz1g)
+[![Watch the video](https://img.youtube.com/shorts/-r9YUDoAz1g/maxresdefault.jpg)](https://youtu.be/shorts/-r9YUDoAz1g)
 
 https://youtube.com/shorts/-r9YUDoAz1g?si=5MjAT51DnJH9nrRI  
 
