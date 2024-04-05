@@ -8,7 +8,7 @@
 | [[[CPE375-030]]  ](https://github.com/efhai2408/Blog/blob/0d75209c0f25de08e0e440095e817f1cb3cfc1c8/CPE375-030%20EntertainmentTechnology101.md)                             | Publihed                      |
 | [CPE375-040](https://github.com/efhai2408/Blog/blob/4ad714a7c3a6c36665a35a7acd6049cd015d8176/CPE375-040.md)                              | 100%                          |
 | [CPE375-041 INVESTORY](https://github.com/efhai2408/Blog/blob/aaefad6b3a4e72f4e912411cc4213ae37518768d/CPE375-041_INVESTORY.md)                     |                               |
-| CPE375-050                              | 70% เหลือขยายความ soft en con |
+| [CPE375-050](https://github.com/efhai2408/Blog/blob/822a34dc1baef58eaf34d82021c9de63e0a8e163/CPE375-050.md)                              | 70% เหลือขยายความ soft en con |
 | CPE375-070                               | เหลือเติมจาก slide อ. |
 | CPE375-080                              | 90% เหลือแปะรูป               |
 | CPE375-090                               | 80% แปะรูปกับสรุป             |
