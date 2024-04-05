@@ -1,3 +1,30 @@
+create date: 2024-02-23
+time: 05:28
+---
+# 1. Intro
+# 2. BACC
+## 2.1 1-6 Floors
+- Health
+- 2-3 Book stores
+- Some shop 
+- coffee shop
+- Show about 
+## 2.2 7-8 Floors
+- Toshiba
+	- Glasses
+	- That green minerals
+	- Rice![[20240128_152445.jpg]]
+- Event that we have to go 
+	- Noise
+	- something
+	- something 
+	- Bangkok story
+	- sand 
+
+# 3. BKK design week
+
+# 4. References
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_152445.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_152945.jpg)
