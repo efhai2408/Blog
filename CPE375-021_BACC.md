@@ -1,9 +1,4 @@
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_152445.jpg)
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_152945.jpg)
-
-
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_152445.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_152945.jpg)
 
