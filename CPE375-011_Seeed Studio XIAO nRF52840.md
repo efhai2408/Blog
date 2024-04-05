@@ -2,10 +2,14 @@ date: 2024-02-23
 time: 05:19
 ---
 # Introduction
-
+In the first class, the assignment for students to pick their interested MCU board, then learn and write the blog about it was proposed.  
+sadly I didn't enter the first class from my misunderstanding about the time schedule.  
+but lucky for me, I have Seeed Studio XIAO nRF52840 Sense with me(This is one of my favourite MCU board and I use it to develop my project anyway), so I decided write a blog about it. 
 
 
 # About Seeed Studio XIAO nRF52840 (Sense)
+
+[![Seeed Studio XIAO nRF52840 (Sense)](https://files.seeedstudio.com/wiki/XIAO-BLE/102010469_Front-14.jpg)](https://www.instructables.com/Button-Mouse-With-XIAO/)
 
 
 Seeed Studio XIAO nRF52840 (Sense) is a microcontroller board embedded with the nrf52840 SoC, developed for IoT and machine learning projects. It is compatible with USB-C 2.0 and Bluetooth 5.0. 
@@ -39,7 +43,7 @@ This device has a reset button on-board, which makes it easy to enter bootloader
   	- remarks: Button Mouse with XIAO developed by using Seeed Studio XIAO SAMD21 version, but the specification, software, pins between SAMD21 and nrf52840 version are similar.
 # Limitation
 Number of pins
-With the number of pins (14 pins) is less than many boards with similar applications, e.g. Arduino Nano board has 22 pins and nice!nano board has 23 pins, this board might not be the best option in very complex tasks that require many pins.
+The number of pins (14 pins) is less than many boards with similar applications, e.g. Arduino Nano board has 22 pins and nice!nano board has 23 pins, this board might not be the best option in very complex tasks that require many pins.
 # References
 
 https://wiki.seeedstudio.com/XIAO_BLE/  
