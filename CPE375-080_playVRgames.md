@@ -24,9 +24,9 @@ Beat Saber เป็นเกมที่ผมอยากเล่นมาก
 สำหรับใครที่อยากจะเป็น Healthy gamer เล่นเกมแล้วได้ทั้งฟังเพลง ฝึก reflex แถมยังได้เรื่องสุขภาพ ต้องเกมนี้เลย  
 ตัวอย่าง Gameplay  
 
-[![Watch the video](https://img.youtube.com/vi/gT_8rx2MRzg?si=z5fSMF-UEX3do0ix/maxresdefault.jpg)](https://youtu.be/gT_8rx2MRzg?si=z5fSMF-UEX3do0ix)
+[![Watch the video](https://img.youtube.com/vi/gT_8rx2MRzg/maxresdefault.jpg)](https://youtu.be/gT_8rx2MRzg)
 
-[![Watch the video](https://img.youtube.comshorts/-r9YUDoAz1g?si=5MjAT51DnJH9nrRI/maxresdefault.jpg)](https://youtu.be/shorts/-r9YUDoAz1g?si=5MjAT51DnJH9nrRI)
+[![Watch the video](https://img.youtube.comshorts/-r9YUDoAz1g/maxresdefault.jpg)](https://youtu.be/shorts/-r9YUDoAz1g)
 
 https://youtube.com/shorts/-r9YUDoAz1g?si=5MjAT51DnJH9nrRI  
 
