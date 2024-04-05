@@ -39,12 +39,12 @@ Beat Saber เป็นเกมที่ผมอยากเล่นมาก
 อาจารย์ให้นักเรียนทั้ง section แบ่งกลุ่มออกเป็น 4 กลุ่มย่อย เกาะกลุ่มกันเป็น zone ของใครของมัน มีโต๊ะวางเป็นกำแพงกั้น (เพราะการเล่น VR ต้องระวังเรื่องอาณาเขตปนกัน ป้องกันเล่น ๆ ไปเกิดอุบัติเหตุ)  
 ผมได้จับกลุ่มอยู่กับ มิตรสหายปี 3 ภาคปก, ปี 3 อินเตอร์ กับเด็กแลกเปลี่ยนจากฟิลิปปินส์   
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_094701.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_094701.jpg)
 
 
 (ไปถามอาจารย์มาทีหลัง เครื่องที่กลุ่มเราใช้อยู่คือ เครื่อง meta quest 2)  
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_111148.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_111148.jpg)
 
 
 
@@ -89,16 +89,16 @@ Spoil ก่อนเลยคือกลุ่มเราใช้เวล�
 
 แล้วอาจารย์ก็เริ่มนำเสนอการวิเคราะห์เกมในฝั่งอาจารย์บ้าง ทั้งข้อดี ข้อเสีย และองค์ประกอบการ design XR game ที่ดี 
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_120600.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_120600.jpg)
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_120931.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_120931.jpg) 
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121118.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121118.jpg) 
 
 ตัวอย่างแย่ๆ ที่อาจารย์ยกตัวอย่างมาคือ Subnautica 
 - การเดินต้องใช้คีย์บอร์ด ขัดกับธรรมชาติของ vr, นอกจากนี้ เกมนี้ถูก port มาให้ window POV มีขนาดใกล้เคียงกับหน้าจอคอมตามปรกติ หลายๆเหตุผลรวมกันก็นำมาสู่ motion sickness 
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121603.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121603.jpg) 
 
 Good XR Game design
 - simple gameplay mechanics
@@ -106,19 +106,19 @@ Good XR Game design
 - vased on the real world but add extra magic
 - avoid buttons and traveling technique if necessary
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121240.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121240.jpg) 
 
 Why Become XR developer
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121639.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121639.jpg) 
 
 XR challenges
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121821.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_121821.jpg) 
 
 Current XR development process
 
-[![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_122030.jpg)] 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-080/20240305_122030.jpg)
 
 
 
