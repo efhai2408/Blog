@@ -1,3 +1,6 @@
+date: 
+time: 09:47
+---
 - exhibition design book
 - working with microcontroller: must read datasheet
 - Exhibition Designer in big Exhibitions like expo usually start from Map (place in bird eye view)
