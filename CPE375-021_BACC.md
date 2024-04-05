@@ -90,9 +90,7 @@
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155859.jpg)
 
-![picture](https://
-
-github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155905.jpg)
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155905.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155944.jpg)
 
@@ -184,9 +182,7 @@ github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155905.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184459.jpg)
 
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021
-
-d/20240128_184512.jpg)
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184512.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_152659_Sound%20Meter.jpg)
 
