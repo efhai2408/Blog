@@ -23,7 +23,7 @@ This device has a reset button on-board, which makes it easy to enter bootloader
 # Some interesting and Remarkable applications
 - Bluetooth Robot
 	- [here are some examples](https://www.seeedstudio.com/blog/2023/12/08/robotic-designs-based-on-xiao-series/)
- 	- https://youtu.be/ZoYiQNPuftg?si=-IogvMw_CapKWI19
+  	- [![Watch the video](https://img.youtube.com/vi/ZoYiQNPuftg/maxresdefault.jpg)](https://youtu.be/ZoYiQNPuftg)
 - Smart watch 
 	- this board embedded with nRF52840 Chip, a very compact, yet powerful and high-spec board with 32-Bit ARM cpu. with it’s very small and compact size, Bluetooth module and many variety of sensor modules embedded, NFC for payment included, It has  It is very suitable for diy smartwatch and other kind of wearable technology projects. There is an existing round OLED display designed specifically for this board from Seeed studio themselves.
 - Keyboard and mouse 
