@@ -63,7 +63,7 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153455.jpg)
 
-
+งานศิลปะ LUNATIC
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153624.jpg)
 
@@ -73,6 +73,8 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153658.jpg)
 
+แหล่งโชว์ภาพของชั้น 3 ผมชอบภาพพวกนี้เป็นพิเศษเลยอยากถ่ายเก็บไว้ เพราะหลังจากนี้จะมีการวนเวียนเปลี่ยนภาพไปเรื่อยๆ ตามนิทรรศการที่จัด
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153722.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153932.jpg)
@@ -80,6 +82,14 @@ Pic2
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153936.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153951.jpg)
+
+เหมือน SCG ไปเช่าห้องไว้สำหรับให้ศิลปิน ต่างๆ มาโชว์งานของตัวเองที่นี่ซึ่งก็จะมีการเปลี่ยนไปเรื่อยๆในแต่ละครั้ง บางครั้งก็เป็นแหล่งโชว์งาน Thesis ของนักเรียนศิลปะ รอบนี้เป็นงานโชว์ภาพวาดของศิลปินท่านหนึ่ง
+
+ภาพจะมีความฉูดฉาดเน้นไปทางสีทองและสีแดง ให้ความรู้สึก ฉูดฉาด รุนแรง แต่ก็มีสีสัน
+ 
+ได้หนังสือฟรีด้วย หนังสือในมือคือศิลปินแกเขียนเองเลย แกคุยกับถามคำถามผมไปซักพัก ก็ให้ผมเลือกซักเล่มจากในกอง
+
+มีภาพที่วาดซากปรักหักพังจากภัยพิบัติด้วย
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153953.jpg)
 
@@ -97,6 +107,10 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_154253.jpg)
 
+สิ่งที่ผมชอบคือแถวนี้มีร้านหนังสือประมาณ 3-4 ล้านแต่ละร้านก็มีเอกลักษณ์แตกต่างกันไป หลายๆร้าน 
+หนังสือส่วนใหญ่ดูเป็นโทนฝั่ง arts, มนุษย์ศาสตร์, สังคมศาสตร์ซะส่วนใหญ่ และหลายๆเล่มเป็นของนักเขียนชาวไทย
+เหมาะสำหรับมาเที่ยวดูเล่นๆเพื่อเป็น inspiration เพราะนอกจากหนังสือแล้วก็มีของ เบ็ดเตล็ดอย่างอื่นให้เลือกซื้อไว้สะสมเช่นหมวก น้ำหอม เข็มกลัด สติ๊กเกอร์
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_154303.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_154357.jpg)
@@ -113,19 +127,33 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_154741.jpg)
 
+รูปที่ค่อนข้างสวยอีกรูป
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_154957.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155004.jpg)
+
+ตั้งแต่ชั้น 6 ถึงชั้น 9 จะมีเป็นทางวนเดินสำหรับเดินเลื่อนขึ้นไปเรื่อยๆ แต่ถ้าใครไม่สะดวก หรือต้องการทางลัดก็มีบันได ให้เดินขึ้นไป
+
+ฉันจะเป็นแหล่งโชว์งานของ Toshiba มีตั้งแต่ แก้วที่ถูกดัดเป็นรูปทรงแปลกใหม่
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155128.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155146.jpg)
 
+ประกาศ
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155210.jpg)
+
+งานศิลป์ diagram ของข้าว
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155242.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155800.jpg)
+
+จุดแสดง เล่าประวัติที่มาและรายละเอียดเกี่ยวกับสีเขียวที่มาจากแร่ชนิดหนึ่ง ชื่อมาลาไคต์
+ซึ่งก็แอบโชคดีที่ไม่ใช่เป็นสีเขียว arsenic ที่เรียกกันว่าสีเขียวแห่งความตาย ถูกใช้บ่อยๆ ในครั้งอดีตกาล ในสมัยที่ยังไม่มีวิทยาการทางการแพทย์ที่ก้าวหน้ามากนัก
+นับเป็นความรู้ใหม่ที่น่าสนใจเพราะก่อนหน้านี้ผมเคยเข้าใจผิดว่า คนยุคกลางใช้แต่สารหนูในการสร้างสีเขียว
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155822.jpg)
 
@@ -137,13 +165,27 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155859.jpg)
 
+ขึ้นบันได
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155905.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155944.jpg)
 
+แล้วก็มาสู่ชั้น 8 
+Concept ของงานส่วนใหญ่ตอนนี้จะเป็น เกี่ยวกับเรื่องราวในกรุงเทพฯ และส่วนใหญ่จะเน้นไปที่ปัญหา ที่คนในเมืองมักจะพบเจอ 
+จุดนี้เป็นจุดที่ ปล่อยให้ชาวกรุงเทพฯ หลายคนหลายอาชีพหลายสถานะ หลายภูมิหลัง หลายเรื่องราว เล่าเรื่องเกี่ยวกับตัวเอง ไม่ว่าจะเป็นสุขทุกข์ ปัญหา หรือความ nostalgia บางอย่าง
+บริเวณนี้บางงานก็จะจัดอยู่ในห้องมืด
+
+งานนี้เป็นของ ESICLab เอง นำเสนอเกี่ยวกับมลพิษทางเสียงในกรุงเทพ ตามตัวเมืองต่างๆ มีการเก็บ data กับการ plot กราฟที่ดูยุ่งเหยิง 
+ผมเดาว่าความยาวของเส้นอาจเป็น amplitude หรือตัวแปรที่เกี่ยวข้อง
+
+ลองเอา dB meter ตรวจดูก็ประมาณ 80-90 dB (ไม่มั่นใจเรื่องความ accurate)
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155948.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160039.jpg)
+
+Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160130.jpg)
 
@@ -151,9 +193,15 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160201.jpg)
 
+งานศิลปะภาพ doodle แบบ modular
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160256.jpg)
 
+เอาของเหลือใช้มาทำงานศิลปะประเภทจัดวาง สวยดี
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160303.jpg)
+
+งานที่นำเสนอ painpoints ในการเดินในกรุงเทพ 
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160325.jpg)
 
@@ -162,6 +210,8 @@ Pic2
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160423.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160442.jpg)
+
+จุดที่ปล่อยให้คนใช้ทรายวาดรูป เป็น canvas ที่ใช้ร่วมกับคนอื่นๆ
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160503.jpg)
 
@@ -172,6 +222,11 @@ Pic2
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161102.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161106.jpg)
+
+ภาพงาน noise ของ ESIC
+
+
+หลังจากนี้จะเป็นรูปส่วนหนึ่งของงาน Bangkok design week
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161120.jpg)
 
@@ -193,6 +248,10 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170500.jpg)
 
+นัดเพื่อนมาเยี่ยมชมหอศิลป์ด้วยกัน 
+
+เก็บตกภาพชั้น 3 ที่ชอบเพิ่ม
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170512.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170519.jpg)
@@ -203,13 +262,22 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170545.jpg)
 
+ภาพจากห้องมืดห้องหนึ่ง
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170548.jpg)
+
+soon to be forgotten
+ห้องนี้เป็นห้องมืดห้องนึงที่ผมและเพื่อนๆชอบเป็นพิเศษ
+จะเป็นการนำฟิล์ม จะพูดถ่ายที่ไม่ทราบที่มาเมื่อ 50 ปีที่แล้ว มาตัดต่อและผสมผสานเข้ากับ เฟรมที่ถูกถ่ายใหม่ ในปัจจุบัน ซึ่งในภาพก็จะมีทั้งทิวทัศน์กรุงเทพฯหรือ setting บางอย่างที่ไม่มีแล้วในปัจจุบัน และ ปัจจุบันที่อาจจะไม่มีอยู่ในอนาคต
+ผมชอบ Message ของงาน เพราะมันทำให้เราได้สัมผัสกับได้ตระหนักคิดเกี่ยวกับเรื่องความไม่หวนกลับของเวลา และความเปลี่ยนแปลงจากมันที่มิอาจเลี่ยงได้
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180305.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180309.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180316.jpg)
+
+เก็บตก ข้าว diagram ชั้น 7
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181422.jpg)
 
