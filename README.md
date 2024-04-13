@@ -11,7 +11,7 @@
 | [CPE375-050](https://github.com/efhai2408/Blog/blob/822a34dc1baef58eaf34d82021c9de63e0a8e163/CPE375-050.md)                              | 70% เหลือขยายความ soft en con |
 | [CPE375-070](https://github.com/efhai2408/Blog/blob/0dd51c47becdd103c1d8c0f75b76fcaaa265720f/CPE375-070.md)                              | เหลือเติมจาก slide อ. |
 | [CPE375-080](https://github.com/efhai2408/Blog/blob/5a6037b546cdda9b7330b0fb809b8ff550ed0605/CPE375-080_playVRgames.md)                              | Published               |
-| [CPE375-090](https://github.com/efhai2408/Blog/blob/efc3aeb739a627e18a31d5497bb637938412c024/CPE375-090_exhibition-design1.md)                               | 80% แปะรูปกับสรุป             |
+| [CPE375-090](https://github.com/efhai2408/Blog/blob/efc3aeb739a627e18a31d5497bb637938412c024/CPE375-090_exhibition-design1.md)                               | 90% สรุป             |
 | TeamLab Study                           |                               |
 |ไอเดีย ผสม ปรับเปลี่ยน                   |                               |
 | [CPE375-100](https://github.com/efhai2408/Blog/blob/8b54c6689c87e47e7836d641cf144e471ee76c1a/CPE375-100_exhibition-design2.md) | 70% แปะรูปกับสรุป    |
