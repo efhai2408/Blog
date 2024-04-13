@@ -2,6 +2,8 @@ date:
 time: 09:47
 ---
 - exhibition design book
+![picture](pics/CPE375-090/20240312_112013.jpg)
+
 - working with microcontroller: must read datasheet
 - Exhibition Designer in big Exhibitions like expo usually start from Map (place in bird eye view)
 - Pavilion - sala in thai spelling
