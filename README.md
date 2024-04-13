@@ -14,7 +14,7 @@
 | [CPE375-090](https://github.com/efhai2408/Blog/blob/efc3aeb739a627e18a31d5497bb637938412c024/CPE375-090_exhibition-design1.md)                               | 90% สรุป             |
 | TeamLab Study                           |                               |
 |ไอเดีย ผสม ปรับเปลี่ยน                   |                               |
-| [CPE375-100](https://github.com/efhai2408/Blog/blob/8b54c6689c87e47e7836d641cf144e471ee76c1a/CPE375-100_exhibition-design2.md) | 70% แปะรูปกับสรุป    |
+| [CPE375-100](https://github.com/efhai2408/Blog/blob/8b54c6689c87e47e7836d641cf144e471ee76c1a/CPE375-100_exhibition-design2.md) | 90% สรุป |
 | BACC KKU projects | 0% need to select some pics | 
 | a bit of thai tune | 0% |
 | museum siam | gotta go 2024-04-06 |
