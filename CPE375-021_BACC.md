@@ -4,27 +4,6 @@ time: 05:28
 # 1. Intro
 # 2. BACC
 ## 2.1 1-6 Floors
-- Health
-- 2-3 Book stores
-- Some shop 
-- coffee shop
-- Show about 
-## 2.2 7-8 Floors
-- Toshiba
-	- Glasses
-	- That green minerals
-	- Rice![[20240128_152445.jpg]]
-- Event that we have to go 
-	- Noise
-	- something
-	- something 
-	- Bangkok story
-	- sand 
-
-# 3. BKK design week
-
-# 4. References
-
 
 อาทิตย์ที่แล้วผมได้รับคำแนะนำและคำมอบหมายจากอาจารย์ให้ไปเยี่ยมชมนิทรรศการหอศิลป์ แล้วนำมา discuss ใน Class
 
@@ -133,6 +112,19 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155004.jpg)
 
+
+## 2.2 7-8 Floors
+- Toshiba
+	- Glasses
+	- That green minerals
+	- Rice![[20240128_152445.jpg]]
+- Event that we have to go 
+	- Noise
+	- something
+	- something 
+	- Bangkok story
+	- sand 
+
 ตั้งแต่ชั้น 6 ถึงชั้น 9 จะมีเป็นทางวนเดินสำหรับเดินเลื่อนขึ้นไปเรื่อยๆ แต่ถ้าใครไม่สะดวก หรือต้องการทางลัดก็มีบันได ให้เดินขึ้นไป
 
 ฉันจะเป็นแหล่งโชว์งานของ Toshiba มีตั้งแต่ แก้วที่ถูกดัดเป็นรูปทรงแปลกใหม่
@@ -226,6 +218,9 @@ Noise
 ภาพงาน noise ของ ESIC
 
 
+
+# 3. BKK design week
+
 หลังจากนี้จะเป็นรูปส่วนหนึ่งของงาน Bangkok design week
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161120.jpg)
@@ -316,3 +311,11 @@ soon to be forgotten
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_161358_Sound%20Meter.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_161359_Sound%20Meter.jpg)
+
+# 4. References
+
+
+
+
+
+
