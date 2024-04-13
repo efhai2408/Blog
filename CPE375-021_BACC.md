@@ -64,6 +64,16 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_153953.jpg)
 
+
+(เก็บตกภาพชั้น 3 ที่ชอบเพิ่ม after นัดเพื่อนมาเยี่ยมชมหอศิลป์ด้วยกัน)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180305.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180309.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180316.jpg)
+
+
 เหมือน SCG ไปเช่าห้องไว้สำหรับให้ศิลปิน ต่างๆ มาโชว์งานของตัวเองที่นี่ซึ่งก็จะมีการเปลี่ยนไปเรื่อยๆในแต่ละครั้ง บางครั้งก็เป็นแหล่งโชว์งาน Thesis ของนักเรียนศิลปะ รอบนี้เป็นงานโชว์ภาพวาดของศิลปินท่านหนึ่ง
 
 ภาพจะมีความฉูดฉาดเน้นไปทางสีทองและสีแดง ให้ความรู้สึก ฉูดฉาด รุนแรง แต่ก็มีสีสัน
@@ -114,7 +124,7 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155004.jpg)
 
-รูปที่ค่อนข้างสวยอีกรูป
+รูปชั้น 3 ที่ค่อนข้างชอบอีกรูป
 
 
 
@@ -161,6 +171,16 @@ Pic2
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155837.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155839.jpg)
+
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184422.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184425.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184459.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184512.jpg)
 
 จุดแสดง เล่าประวัติที่มาและรายละเอียดเกี่ยวกับสีเขียวที่มาจากแร่ชนิดหนึ่ง ชื่อมาลาไคต์
 ซึ่งก็แอบโชคดีที่ไม่ใช่เป็นสีเขียว arsenic ที่เรียกกันว่าสีเขียวแห่งความตาย ถูกใช้บ่อยๆ ในครั้งอดีตกาล ในสมัยที่ยังไม่มีวิทยาการทางการแพทย์ที่ก้าวหน้ามากนัก
@@ -268,6 +288,29 @@ sarcasm
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161419.jpg)
 
 
+ภาพจากห้องมืดห้องหนึ่ง
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181422.jpg)
+
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181429.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181443.jpg)
+
+soon to be forgotten
+ห้องนี้เป็นห้องมืดห้องนึงที่ผมและเพื่อนๆชอบเป็นพิเศษ
+จะเป็นการนำฟิล์ม จะพูดถ่ายที่ไม่ทราบที่มาเมื่อ 50 ปีที่แล้ว มาตัดต่อและผสมผสานเข้ากับ เฟรมที่ถูกถ่ายใหม่ ในปัจจุบัน ซึ่งในภาพก็จะมีทั้งทิวทัศน์กรุงเทพฯหรือ setting บางอย่างที่ไม่มีแล้วในปัจจุบัน และ ปัจจุบันที่อาจจะไม่มีอยู่ในอนาคต
+ผมชอบ Message ของงาน เพราะมันทำให้เราได้สัมผัสกับได้ตระหนักคิดเกี่ยวกับเรื่องความไม่หวนกลับของเวลา และความเปลี่ยนแปลงจากมันที่มิอาจเลี่ยงได้
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182030.jpg)
+
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182032.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182422.jpg)
+
 # 3. BKK design week
 
 หลังจากนี้จะเป็นรูปส่วนหนึ่งของงาน Bangkok design week
@@ -305,48 +348,13 @@ BKK design week
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_153315_Facebook.jpg)
 
 
-นัดเพื่อนมาเยี่ยมชมหอศิลป์ด้วยกัน 
-
-เก็บตกภาพชั้น 3 ที่ชอบเพิ่ม
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180305.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180309.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180316.jpg)
-
-ภาพจากห้องมืดห้องหนึ่ง
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181422.jpg)
 
 
 
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181429.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181443.jpg)
-
-soon to be forgotten
-ห้องนี้เป็นห้องมืดห้องนึงที่ผมและเพื่อนๆชอบเป็นพิเศษ
-จะเป็นการนำฟิล์ม จะพูดถ่ายที่ไม่ทราบที่มาเมื่อ 50 ปีที่แล้ว มาตัดต่อและผสมผสานเข้ากับ เฟรมที่ถูกถ่ายใหม่ ในปัจจุบัน ซึ่งในภาพก็จะมีทั้งทิวทัศน์กรุงเทพฯหรือ setting บางอย่างที่ไม่มีแล้วในปัจจุบัน และ ปัจจุบันที่อาจจะไม่มีอยู่ในอนาคต
-ผมชอบ Message ของงาน เพราะมันทำให้เราได้สัมผัสกับได้ตระหนักคิดเกี่ยวกับเรื่องความไม่หวนกลับของเวลา และความเปลี่ยนแปลงจากมันที่มิอาจเลี่ยงได้
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182030.jpg)
 
 
 
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182032.jpg)
 
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182422.jpg)
-
-เก็บตก ข้าว diagram ชั้น 7
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184422.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184425.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184459.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184512.jpg)
 
 dB meter data
 
