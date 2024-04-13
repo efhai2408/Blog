@@ -136,35 +136,53 @@ Pic2
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155146.jpg)
 
-ประกาศ
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155210.jpg)
 
-งานศิลป์ diagram ของข้าว
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155242.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155800.jpg)
 
-จุดแสดง เล่าประวัติที่มาและรายละเอียดเกี่ยวกับสีเขียวที่มาจากแร่ชนิดหนึ่ง ชื่อมาลาไคต์
-ซึ่งก็แอบโชคดีที่ไม่ใช่เป็นสีเขียว arsenic ที่เรียกกันว่าสีเขียวแห่งความตาย ถูกใช้บ่อยๆ ในครั้งอดีตกาล ในสมัยที่ยังไม่มีวิทยาการทางการแพทย์ที่ก้าวหน้ามากนัก
-นับเป็นความรู้ใหม่ที่น่าสนใจเพราะก่อนหน้านี้ผมเคยเข้าใจผิดว่า คนยุคกลางใช้แต่สารหนูในการสร้างสีเขียว
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155822.jpg)
 
+ประกาศ
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155824.jpg)
+
+งานศิลป์ diagram ของข้าว
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155837.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155839.jpg)
 
+จุดแสดง เล่าประวัติที่มาและรายละเอียดเกี่ยวกับสีเขียวที่มาจากแร่ชนิดหนึ่ง ชื่อมาลาไคต์
+ซึ่งก็แอบโชคดีที่ไม่ใช่เป็นสีเขียว arsenic ที่เรียกกันว่าสีเขียวแห่งความตาย ถูกใช้บ่อยๆ ในครั้งอดีตกาล ในสมัยที่ยังไม่มีวิทยาการทางการแพทย์ที่ก้าวหน้ามากนัก
+นับเป็นความรู้ใหม่ที่น่าสนใจเพราะก่อนหน้านี้ผมเคยเข้าใจผิดว่า คนยุคกลางใช้แต่สารหนูในการสร้างสีเขียว
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155859.jpg)
 
-ขึ้นบันได
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155905.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155944.jpg)
+
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155948.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160039.jpg)
+
+ขึ้นบันได
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160130.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160141.jpg)
 
 แล้วก็มาสู่ชั้น 8 
 Concept ของงานส่วนใหญ่ตอนนี้จะเป็น เกี่ยวกับเรื่องราวในกรุงเทพฯ และส่วนใหญ่จะเน้นไปที่ปัญหา ที่คนในเมืองมักจะพบเจอ 
@@ -176,37 +194,31 @@ Concept ของงานส่วนใหญ่ตอนนี้จะเป
 
 ลองเอา dB meter ตรวจดูก็ประมาณ 80-90 dB (ไม่มั่นใจเรื่องความ accurate)
 
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155948.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160039.jpg)
-
-Noise
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160130.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160141.jpg)
-
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160201.jpg)
 
-งานศิลปะภาพ doodle แบบ modular
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160256.jpg)
 
-เอาของเหลือใช้มาทำงานศิลปะประเภทจัดวาง สวยดี
+Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160303.jpg)
 
-งานที่นำเสนอ painpoints ในการเดินในกรุงเทพ 
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160325.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160356.jpg)
 
+งานศิลปะภาพ doodle แบบ modular
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160423.jpg)
+
+เอาของเหลือใช้มาทำงานศิลปะประเภทจัดวาง สวยดี
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160442.jpg)
 
-จุดที่ปล่อยให้คนใช้ทรายวาดรูป เป็น canvas ที่ใช้ร่วมกับคนอื่นๆ
+งานที่นำเสนอ painpoints ในการเดินในกรุงเทพ 
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160503.jpg)
 
@@ -215,16 +227,14 @@ Noise
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160844.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161102.jpg)
-
+จุดที่ปล่อยให้คนใช้ทรายวาดรูป เป็น canvas ที่ใช้ร่วมกับคนอื่นๆ
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161106.jpg)
 
-ภาพงาน noise ของ ESIC
 
 
 
-# 3. BKK design week
 
-หลังจากนี้จะเป็นรูปส่วนหนึ่งของงาน Bangkok design week
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161120.jpg)
 
@@ -233,6 +243,13 @@ Noise
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161305.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161320.jpg)
+
+ภาพงาน noise ของ ESIC
+
+
+# 3. BKK design week
+
+หลังจากนี้จะเป็นรูปส่วนหนึ่งของงาน Bangkok design week
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161406.jpg)
 
@@ -246,9 +263,7 @@ Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170500.jpg)
 
-นัดเพื่อนมาเยี่ยมชมหอศิลป์ด้วยกัน 
 
-เก็บตกภาพชั้น 3 ที่ชอบเพิ่ม
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170512.jpg)
 
@@ -258,16 +273,17 @@ Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170542.jpg)
 
+นัดเพื่อนมาเยี่ยมชมหอศิลป์ด้วยกัน 
+
+เก็บตกภาพชั้น 3 ที่ชอบเพิ่ม
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170545.jpg)
 
-ภาพจากห้องมืดห้องหนึ่ง
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170548.jpg)
 
-soon to be forgotten
-ห้องนี้เป็นห้องมืดห้องนึงที่ผมและเพื่อนๆชอบเป็นพิเศษ
-จะเป็นการนำฟิล์ม จะพูดถ่ายที่ไม่ทราบที่มาเมื่อ 50 ปีที่แล้ว มาตัดต่อและผสมผสานเข้ากับ เฟรมที่ถูกถ่ายใหม่ ในปัจจุบัน ซึ่งในภาพก็จะมีทั้งทิวทัศน์กรุงเทพฯหรือ setting บางอย่างที่ไม่มีแล้วในปัจจุบัน และ ปัจจุบันที่อาจจะไม่มีอยู่ในอนาคต
-ผมชอบ Message ของงาน เพราะมันทำให้เราได้สัมผัสกับได้ตระหนักคิดเกี่ยวกับเรื่องความไม่หวนกลับของเวลา และความเปลี่ยนแปลงจากมันที่มิอาจเลี่ยงได้
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180305.jpg)
 
@@ -275,15 +291,22 @@ soon to be forgotten
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180316.jpg)
 
-เก็บตก ข้าว diagram ชั้น 7
+ภาพจากห้องมืดห้องหนึ่ง
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181422.jpg)
+
+soon to be forgotten
+ห้องนี้เป็นห้องมืดห้องนึงที่ผมและเพื่อนๆชอบเป็นพิเศษ
+จะเป็นการนำฟิล์ม จะพูดถ่ายที่ไม่ทราบที่มาเมื่อ 50 ปีที่แล้ว มาตัดต่อและผสมผสานเข้ากับ เฟรมที่ถูกถ่ายใหม่ ในปัจจุบัน ซึ่งในภาพก็จะมีทั้งทิวทัศน์กรุงเทพฯหรือ setting บางอย่างที่ไม่มีแล้วในปัจจุบัน และ ปัจจุบันที่อาจจะไม่มีอยู่ในอนาคต
+ผมชอบ Message ของงาน เพราะมันทำให้เราได้สัมผัสกับได้ตระหนักคิดเกี่ยวกับเรื่องความไม่หวนกลับของเวลา และความเปลี่ยนแปลงจากมันที่มิอาจเลี่ยงได้
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181429.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181443.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182030.jpg)
+
+เก็บตก ข้าว diagram ชั้น 7
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182032.jpg)
 
