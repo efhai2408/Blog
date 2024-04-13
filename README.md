@@ -7,7 +7,7 @@
 | [CPE375-021 BACC and BKK design week 2024](https://github.com/efhai2408/Blog/blob/23bdf35e6d313d80ffd50097a4d77f8f2ba3aa86/CPE375-021_BACC.md) |               80% จัดตัวอักษร กลุ่มคำ                | 
 | [CPE375-030](https://github.com/efhai2408/Blog/blob/0d75209c0f25de08e0e440095e817f1cb3cfc1c8/CPE375-030%20EntertainmentTechnology101.md)                             | Published                      |
 | [CPE375-040](https://github.com/efhai2408/Blog/blob/4ad714a7c3a6c36665a35a7acd6049cd015d8176/CPE375-040.md)                              | Published                          |
-| [CPE375-041 INVESTORY](https://github.com/efhai2408/Blog/blob/aaefad6b3a4e72f4e912411cc4213ae37518768d/CPE375-041_INVESTORY.md)                     |           40% need to add text                    |
+| [CPE375-041 INVESTORY](https://github.com/efhai2408/Blog/blob/aaefad6b3a4e72f4e912411cc4213ae37518768d/CPE375-041_INVESTORY.md)                     |           published                    |
 | [CPE375-050](https://github.com/efhai2408/Blog/blob/822a34dc1baef58eaf34d82021c9de63e0a8e163/CPE375-050.md)                              | 70% เหลือขยายความ soft en con |
 | [CPE375-070](https://github.com/efhai2408/Blog/blob/0dd51c47becdd103c1d8c0f75b76fcaaa265720f/CPE375-070.md)                              | เหลือเติมจาก slide อ. |
 | [CPE375-080](https://github.com/efhai2408/Blog/blob/5a6037b546cdda9b7330b0fb809b8ff550ed0605/CPE375-080_playVRgames.md)                              | Published               |
