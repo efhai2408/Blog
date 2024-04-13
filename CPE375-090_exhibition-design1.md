@@ -1,8 +1,26 @@
 date: 
 time: 09:47
 ---
-- exhibition design book
+- exhibition design books
 ![picture](pics/CPE375-090/20240312_112013.jpg)
+
+![picture](pics/CPE375-090/20240312_112734.jpg)
+
+![picture](pics/CPE375-090/20240312_113414.jpg)
+
+![picture](pics/CPE375-090/20240312_113602.jpg)
+
+![picture](pics/CPE375-090/20240312_113604.jpg)
+
+- brainstorm's result presentation
+![picture](pics/CPE375-090/20240312_113638.jpg)
+
+![picture](pics/CPE375-090/20240312_113718.jpg)
+
+- record some of my ideas
+![picture](pics/CPE375-090/20240312_110036.jpg)
+- keyconcepts
+![picture](pics/CPE375-090/20240312_121138.jpg)
 
 - working with microcontroller: must read datasheet
 - Exhibition Designer in big Exhibitions like expo usually start from Map (place in bird eye view)
