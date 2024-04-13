@@ -116,6 +116,20 @@ Pic2
 
 รูปที่ค่อนข้างสวยอีกรูป
 
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155128.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155146.jpg)
+
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155210.jpg)
+
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155242.jpg)
+
 ## 2.2 7-8 Floors
 - Toshiba
 	- Glasses
@@ -130,19 +144,7 @@ Pic2
 
 ตั้งแต่ชั้น 6 ถึงชั้น 9 จะมีเป็นทางวนเดินสำหรับเดินเลื่อนขึ้นไปเรื่อยๆ แต่ถ้าใครไม่สะดวก หรือต้องการทางลัดก็มีบันได ให้เดินขึ้นไป
 
-ฉันจะเป็นแหล่งโชว์งานของ Toshiba มีตั้งแต่ แก้วที่ถูกดัดเป็นรูปทรงแปลกใหม่
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155128.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155146.jpg)
-
-
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155210.jpg)
-
-
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155242.jpg)
+ชั้น 7 จะเป็นแหล่งโชว์งานของ Toshiba มีตั้งแต่ แก้วที่ถูกดัดเป็นรูปทรงแปลกใหม่
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_155800.jpg)
 
@@ -208,26 +210,34 @@ Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160325.jpg)
 
+งานศิลปะภาพ doodle แบบ modular
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160356.jpg)
 
-งานศิลปะภาพ doodle แบบ modular
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160423.jpg)
 
-เอาของเหลือใช้มาทำงานศิลปะประเภทจัดวาง สวยดี
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160442.jpg)
 
-งานที่นำเสนอ painpoints ในการเดินในกรุงเทพ 
+เอาของเหลือใช้มาทำงานศิลปะประเภทจัดวาง สวยดี
+
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160503.jpg)
 
+งานที่นำเสนอ painpoints ในการเดินในกรุงเทพ 
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160738.jpg)
+
+จุดที่ปล่อยให้คนใช้ทรายวาดรูป เป็น canvas ที่ใช้ร่วมกับคนอื่นๆ
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_160844.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161102.jpg)
-จุดที่ปล่อยให้คนใช้ทรายวาดรูป เป็น canvas ที่ใช้ร่วมกับคนอื่นๆ
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161106.jpg)
 
 
@@ -238,22 +248,29 @@ Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161120.jpg)
 
+sarcasm
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161145.jpg)
+
+ภาพงาน noise ของ ESIC
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161305.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161320.jpg)
 
-ภาพงาน noise ของ ESIC
+
+
+
+
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161406.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161419.jpg)
 
 
 # 3. BKK design week
 
 หลังจากนี้จะเป็นรูปส่วนหนึ่งของงาน Bangkok design week
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161406.jpg)
-
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_161419.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170421.jpg)
 
@@ -273,9 +290,7 @@ Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170542.jpg)
 
-นัดเพื่อนมาเยี่ยมชมหอศิลป์ด้วยกัน 
 
-เก็บตกภาพชั้น 3 ที่ชอบเพิ่ม
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170545.jpg)
 
@@ -283,7 +298,16 @@ Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_170548.jpg)
 
+BKK design week
 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_153307_Facebook.jpg)
+
+![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_153315_Facebook.jpg)
+
+
+นัดเพื่อนมาเยี่ยมชมหอศิลป์ด้วยกัน 
+
+เก็บตกภาพชั้น 3 ที่ชอบเพิ่ม
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_180305.jpg)
 
@@ -295,22 +319,26 @@ Noise
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181422.jpg)
 
-soon to be forgotten
-ห้องนี้เป็นห้องมืดห้องนึงที่ผมและเพื่อนๆชอบเป็นพิเศษ
-จะเป็นการนำฟิล์ม จะพูดถ่ายที่ไม่ทราบที่มาเมื่อ 50 ปีที่แล้ว มาตัดต่อและผสมผสานเข้ากับ เฟรมที่ถูกถ่ายใหม่ ในปัจจุบัน ซึ่งในภาพก็จะมีทั้งทิวทัศน์กรุงเทพฯหรือ setting บางอย่างที่ไม่มีแล้วในปัจจุบัน และ ปัจจุบันที่อาจจะไม่มีอยู่ในอนาคต
-ผมชอบ Message ของงาน เพราะมันทำให้เราได้สัมผัสกับได้ตระหนักคิดเกี่ยวกับเรื่องความไม่หวนกลับของเวลา และความเปลี่ยนแปลงจากมันที่มิอาจเลี่ยงได้
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181429.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_181443.jpg)
 
+soon to be forgotten
+ห้องนี้เป็นห้องมืดห้องนึงที่ผมและเพื่อนๆชอบเป็นพิเศษ
+จะเป็นการนำฟิล์ม จะพูดถ่ายที่ไม่ทราบที่มาเมื่อ 50 ปีที่แล้ว มาตัดต่อและผสมผสานเข้ากับ เฟรมที่ถูกถ่ายใหม่ ในปัจจุบัน ซึ่งในภาพก็จะมีทั้งทิวทัศน์กรุงเทพฯหรือ setting บางอย่างที่ไม่มีแล้วในปัจจุบัน และ ปัจจุบันที่อาจจะไม่มีอยู่ในอนาคต
+ผมชอบ Message ของงาน เพราะมันทำให้เราได้สัมผัสกับได้ตระหนักคิดเกี่ยวกับเรื่องความไม่หวนกลับของเวลา และความเปลี่ยนแปลงจากมันที่มิอาจเลี่ยงได้
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182030.jpg)
 
-เก็บตก ข้าว diagram ชั้น 7
+
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182032.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_182422.jpg)
+
+เก็บตก ข้าว diagram ชั้น 7
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184422.jpg)
 
@@ -320,11 +348,11 @@ soon to be forgotten
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/20240128_184512.jpg)
 
+dB meter data
+
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_152659_Sound%20Meter.jpg)
 
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_153307_Facebook.jpg)
 
-![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_153315_Facebook.jpg)
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics/CPE375-021d/Screenshot_20240128_153318_Facebook.jpg)
 
