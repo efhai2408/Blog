@@ -16,8 +16,8 @@
 **มุมมอง** = การเรียงกันของไอเดียในรูปแบบต่างๆ       
 > [!remarks]
 > concept ของ parent and child relation ใน note นี้จะเป็นคนละนิยามกับแบบ traditional  
-ใน note นี้หลายๆครั้งจะได้เห็น case ที่ child มีหลาย parents และบางที child ก็สร้าง parent ด้วยซ้ำ (ปรกติเขาไม่ทำกันแบบนั้น ทำแบบ note นี้คือผิดนิยาม)    
-ที่ใช้คำนี้ เพราะอยากหยิบยืมนิยามด้านการ converge ไปหาจุดใดจุดหนึ่ง ผสมเป็นไอเดียใหญ่ๆก้อนโตๆ ที่เป็นเหมือน root ของนิยาม traditional  
+> ใน note นี้หลายๆครั้งจะได้เห็น case ที่ child มีหลาย parents และบางที child ก็สร้าง parent ด้วยซ้ำ (ปรกติเขาไม่ทำกันแบบนั้น ทำแบบ note นี้คือผิดนิยาม)    
+> ที่ใช้คำนี้ เพราะอยากหยิบยืมนิยามด้านการ converge ไปหาจุดใดจุดหนึ่ง ผสมเป็นไอเดียใหญ่ๆก้อนโตๆ ที่เป็นเหมือน root ของนิยาม traditional  
 
 
 <img src="https://en.meming.world/images/en/a/a3/We_Don%27t_Do_That_Here.jpg" width=50% height=50%>
