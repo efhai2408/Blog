@@ -17,5 +17,5 @@
 | [CPE375-100](https://github.com/efhai2408/Blog/blob/8b54c6689c87e47e7836d641cf144e471ee76c1a/CPE375-100_exhibition-design2.md) | 90% สรุป |
 | BACC KKU projects | 0% need to select some pics | 
 | a bit of thai tune | 0% |
-| [CPE375-behind the scene เด็กภาคคอมจัดนิทรรศการ interactive ที่ central world](efhai2408/Blog/CPE375-behind the scene เด็กภาคคอมจัดนิทรรศการ interactive ที่ central world.md)   | Published |
+| [CPE375-behind the scene เด็กภาคคอมจัดนิทรรศการ interactive ที่ central world](https://github.com/efhai2408/Blog/blob/90606fc088b5e183c93c553eaddc1a547001bfed/CPE375-behind%20the%20scene%20%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%81%E0%B8%B2%E0%B8%A3%20interactive%20%E0%B8%97%E0%B8%B5%E0%B9%88%20central%20world.md)   | Published |
 | [CPE375-behind the scene of behind the scene: How I write my blog, for now](efhai2408/Blog/CPE375-behind the scene of behind the scene How I write my blog.md) | Published |
