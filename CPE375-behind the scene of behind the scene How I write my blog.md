@@ -40,4 +40,4 @@
 เขียนจนพอใจแล้วค่อยย้ายไปลงไป github ก่อนจะตั้งสถานะของโน้ตใน โปรแกรม obsidian เป็น archived
 
 ### 3. Seasoning with pictures 
-ใน contents แต่ละ parts จะมีการ label จุดที่จะเอารูปไปแปะไว้ ซึ่งจะค่อยมาแปะทีหลังใน github
+![picture](pics/Cpe375-btsobts/2.png)
