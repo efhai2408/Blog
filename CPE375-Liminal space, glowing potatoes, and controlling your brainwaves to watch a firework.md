@@ -1,11 +1,14 @@
 Here is my travel note
-![picture]()
+
+![picture]![picture](https://github.com/efhai2408/Blog/blob/main/pics%2FLiminal%2F2024-04-21.svg))
+
 
 
 after I arrived, the glowing potato pique my interest. 
 
 Here is my visual note, I initially made this for inclass presentation but I couldn't find the right timing for presentation backthen, at least I still manage to babbling about the concept of Liminal space to my friends(around 4-7 people in total) and some of our team because I like this concept so much.
 
+![picture](https://github.com/efhai2408/Blog/blob/main/pics%2FLiminal%2F2024-04-21.svg)
 
 JinJoon Lee
 - Artist 
