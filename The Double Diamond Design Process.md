@@ -19,9 +19,10 @@ Stage ที่สอง-เพชรเม็ดที่สอง-ทำให
 - เริ่มแรก เรารู้ว่าควรทำอะไร แต่ยังไม่รู้ว่าวิธีไหนดี 
 - เน้นไปที่วิธีการ (เราทำยังไงได้บ้าง แล้วควรทำแบบไหน) แล้วก็เริ่มลงมือทำละ
 - ผลลัพธ์คือผลลัพธ์จากการลงมือทำ
-![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*mHJAs51hJBOaiKN7pkHbHg.jpeg)
 
-![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BJ804IkM8eME12-MObtwpg.jpeg)
+- ![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*mHJAs51hJBOaiKN7pkHbHg.jpeg)
+
+- ![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BJ804IkM8eME12-MObtwpg.jpeg)
 
 
 
