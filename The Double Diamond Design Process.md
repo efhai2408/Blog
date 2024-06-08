@@ -1,19 +1,19 @@
 ## Introduction 
 - พบเจอจากวิชา Interactive computing 
 - พอได้ศึกษาก็เริ่มสนใจ 
-- ระหว่างนั้น ตัวเองได้รับผิดชอบให้เขียนรายงานในส่วน Human C entered Design ทำให้พอศีกษาเรื่อง process ก็จะต้องอ่าน DDD ด้วย 
-- พอได้ลองอ่านดูก็รู้สึกสนใจ เพราะมองว่าดูเหมาะกับการศึกษา, การเรียนรู้, การ research เลยค่อนข้างควรค่าแก่ลองศึกษาดู ประกอบกับอยากสรุปเป็นภาษาไทยไว้เผื่อไปเล่าโดยสรุปให้เพื่อน ๆ ที่เรียนสาขาอื่นที่สนใจด้านคอมฟังด้วย ระหว่างทำรายงาน บางช่วงบางตอนพอเล่า concepts ให้ังกันและกัน ก็พบว่าบทความเดียวกัน แต่ก็ยังมีการแปลความต่าวกันอยู่ เลยอยากแปลเก็บไว้เองด้วย ว่าผมเช้าใจเป็นภาษาไทยประมาณนี้
+- ระหว่างนั้น ตัวเองได้รับผิดชอบให้เขียนรายงานในส่วน Human C entered Design ทำให้พอศีกษาเรื่อง process ก็จะต้องอ่าน DDD (The Double Diamond Design Process) ด้วย 
+- ได้มีโอกาสได้ลองอ่าน The Revamped Double Diamond Design Process ของบล๊อคของ Dan Nessler ดูก็รู้สึกสนใจ เพราะมองว่าดูเหมาะกับการศึกษา, การเรียนรู้, การ research และผมชอบมุมมองแบบการมองปัญหาเป็น state ของความรู้/ไม่รู้ มากเป็นพิเศษ เลยค่อนข้างควรค่าแก่ลองศึกษาดู ประกอบกับอยากสรุปเป็นภาษาไทยไว้เผื่อไปเล่าโดยสรุปให้เพื่อน ๆ ที่เรียนสาขาอื่นที่สนใจด้านคอมฟังด้วย ระหว่างทำรายงาน บางช่วงบางตอนพอเล่า concepts ให้ังกันและกัน ก็พบว่าบทความเดียวกัน แต่ก็ยังมีการแปลความต่าวกันอยู่ เลยอยากแปลเก็บไว้เองด้วย ว่าผมเช้าใจเป็นภาษาไทยประมาณนี้
 - ทั้งนี้ทั้งนั้น ในบทความนี้จะยังเน้นไปที่การแปลเป็นหลัก อาจยังไม่เน้นการตกผลึกหลักการของตัวเองขนาดนั้น
 ![picture](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3noihi4CGXPZAgevbk87Yg.jpeg)
 
-## 2 State(สถานะ) ของ Double Diamond: ไม่รู้ คงจะ เป็น รู้ ควรจะ. 
+## 2 State(สถานะ) ของ Revamped Double Diamond: ไม่รู้ คงจะ เป็น รู้ ควรจะ. 
 
 ปัญหา คือ gap ระหว่าง state ปัจจุบัน และ desirable state
 
 การแก้ปัญหา คือการเคลื่อนตัว จาก State ที่คลุมเคลือ ไปสู่ State ที่ ในท้ายที่สุดเรา Know how หลังปัญหาถูกแก้แล้ว
 
 ![picture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*E3abmH3QLLCWwcjExb-STQ.jpeg)
-## 4 Phase(ขั้น) ของ Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
+## 4 Phase(ขั้น) ของ Revamped Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
 
 
 Phase ที่หนึ่ง Discover. 
@@ -35,7 +35,7 @@ Phase ที่สี่ deliver
 - ผลลัพธ์คือ product หรือสภาวะของปัญหาที่ทุเลาลง จากการลงมือทำ
 
 ![picture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*E3abmH3QLLCWwcjExb-STQ.jpeg)
-## 2 Stage(ขั้น) ของ Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
+## 2 Stage(ขั้น) ของ Revamped Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
 Stage แรก-เพชรเม็ดแรก-ทำสิ่งที่ถูกต้อง: 
 - เริ่มแรก เรายังไม่รู้ว่า“ควรทำอะไร” 
 - หาความเป็นไปได้ ว่าเราทำอะไรได้บ้าง
@@ -50,7 +50,21 @@ Stage ที่สอง-เพชรเม็ดที่สอง-ทำให
 
 - ![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*mHJAs51hJBOaiKN7pkHbHg.jpeg)
 
+## 2 Stage(ขั้น) ของ Revamped Double Diamond ในอีกมุมมอง: สร้างกลยุทธ และสร้าง design
+Stage แรก-เพชรเม็ดแรก-สร้างกลยุทธ: 
+- หลักการ คือการหาปัญหาหรือ goal ที่ถูกต้อง เพื่อสร้างกลยุทธ
+
+Stage ที่สอง-เพชรเม็ดที่สอง-สร้าง design
+- หลักการ คือการหาคำตอบของปัญหา หรือแนวทางไปสู่ goal ที่ถูกต้อง  
+
+
 - ![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BJ804IkM8eME12-MObtwpg.jpeg)
 
+
+อ้างอิง
+
+- https://medium.com/user-experience-design-1/how-to-solve-problems-applying-a-uxdesign-designthinking-hcd-or-any-design-process-from-scratch-v2-aa16e2dd550b
+
+- https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
 
 
