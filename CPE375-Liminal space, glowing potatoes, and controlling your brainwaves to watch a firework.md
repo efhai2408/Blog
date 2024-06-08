@@ -1,0 +1,22 @@
+JinJoon Lee
+- Artist 
+- graduated from top university from korea in business and decide to persuade his art passion
+- he do his phd about Liminal Space
+
+
+- Liminal space
+	- What is liminal space
+   - Place during 'Transition'
+    - according to Jinjoon Lee, Living is also liminal space (state during Life and death)
+	- backroom
+		- horror 
+		- fear of unknown
+	- life and death is also liminal space
+	- for me, This concept interesting because this concept seems to have deep connection with human instinct that related to life-and-death scenario, and this concept play a big role in modern internet meme and culture, make this word seems fascinating.
+
+- He did a great job in creating ambient sound 
+
+Related notes
+[[2024-04-21]]
+
+[[Drawing CPE375 Liminal Space.excalidraw]]
