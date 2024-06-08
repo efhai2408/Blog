@@ -10,7 +10,7 @@ Here is my visual note, I initially made this for inclass presentation but I cou
 
 
 ![picture](https://github.com/efhai2408/Blog/blob/main/pics%2FLiminal%2FDrawing%20CPE375%20Liminal%20Space.excalidraw.svg)
-(I write almost every picture it's detail so I recommend you to zoom-in to get the full context)
+(I write many details in many parts of this big canvas,so I recommend you to zoom-in this picture)
 
 
 JinJoon Lee
