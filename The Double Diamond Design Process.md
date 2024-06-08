@@ -7,6 +7,9 @@
 ![picture](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3noihi4CGXPZAgevbk87Yg.jpeg)
 
 ## 2 State(สถานะ) ของ Double Diamond: ไม่รู้ คงจะ เป็น รู้ ควรจะ
+![picture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*E3abmH3QLLCWwcjExb-STQ.jpeg)
+## 4 Phase(ขั้น) ของ Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
+![picture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*E3abmH3QLLCWwcjExb-STQ.jpeg)
 ## 2 Stage(ขั้น) ของ Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
 Stage แรก-เพชรเม็ดแรก-ทำสิ่งที่ถูกต้อง: 
 - เริ่มแรก เรายังไม่รู้ว่า“ควรทำอะไร” 
@@ -15,4 +18,10 @@ Stage แรก-เพชรเม็ดแรก-ทำสิ่งที่ถ
 Stage ที่สอง-เพชรเม็ดที่สอง-ทำให้ถูกวิธี
 - เริ่มแรก เรารู้ว่าควรทำอะไร แต่ยังไม่รู้ว่าวิธีไหนดี 
 - เน้นไปที่วิธีการ (เราทำยังไงได้บ้าง แล้วควรทำแบบไหน) แล้วก็เริ่มลงมือทำละ
-- ผลลัพธ์คือผลลัพธ์จากการลงมือทำ 
+- ผลลัพธ์คือผลลัพธ์จากการลงมือทำ
+![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*mHJAs51hJBOaiKN7pkHbHg.jpeg)
+
+![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BJ804IkM8eME12-MObtwpg.jpeg)
+
+
+
