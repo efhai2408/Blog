@@ -6,23 +6,47 @@
 - ทั้งนี้ทั้งนั้น ในบทความนี้จะยังเน้นไปที่การแปลเป็นหลัก อาจยังไม่เน้นการตกผลึกหลักการของตัวเองขนาดนั้น
 ![picture](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3noihi4CGXPZAgevbk87Yg.jpeg)
 
-## 2 State(สถานะ) ของ Double Diamond: ไม่รู้ คงจะ เป็น รู้ ควรจะ
+## 2 State(สถานะ) ของ Double Diamond: ไม่รู้ คงจะ เป็น รู้ ควรจะ. 
+
+ปัญหา คือ gap ระหว่าง state ปัจจุบัน และ desirable state
+
+การแก้ปัญหา คือการเคลื่อนตัว จาก State ที่คลุมเคลือ ไปสู่ State ที่ ในท้ายที่สุดเรา Know how หลังปัญหาถูกแก้แล้ว
+
 ![picture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*E3abmH3QLLCWwcjExb-STQ.jpeg)
 ## 4 Phase(ขั้น) ของ Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
+
+
+Phase ที่หนึ่ง Discover. 
+- ทำความเข้าใจสถานการณ์
+- ตามหาว่ามี knowledge gap อะไรบ้างที่ควรรู้
+- เติมเต็ม knowledge gap
+
+Phase ที่สอง.  
+- สร้าง insight ที่สังเคราะห์จากการตีความข้อมูลที่ได้จาก Discover phase
+- ผลลัพธ์ที่คาดหวัง คือต้นตอของปัญหา หรือ goal ที่ต้องการที่จะ achived
+
+
+Phase ที่สาม Develop
+- คิด solutions, หาความเป็นไปได้ต่าง ๆ จาก goal หรือ problem จาก Phase ก่อนหน้า
+
+
+Phase ที่สี่ deliver
+- คือการสร้าง prototype และ implement
+- ผลลัพธ์คือ product หรือสภาวะของปัญหาที่ทุเลาลง จากการลงมือทำ
+
 ![picture](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*E3abmH3QLLCWwcjExb-STQ.jpeg)
 ## 2 Stage(ขั้น) ของ Double Diamond: ทำสิ่งที่ถูกต้อง แล้วค่อยทำให้ถูกวิธี
 Stage แรก-เพชรเม็ดแรก-ทำสิ่งที่ถูกต้อง: 
 - เริ่มแรก เรายังไม่รู้ว่า“ควรทำอะไร” 
 - หาความเป็นไปได้ ว่าเราทำอะไรได้บ้าง
-- ผลลัพธ์สุดท้ายคือเป้าหมาย (สิ่งที่ต้องทำ)
+- ผลลัพธ์สุดท้ายคือเป้าหมาย (สิ่งที่ต้องทำ)  
+
+
 Stage ที่สอง-เพชรเม็ดที่สอง-ทำให้ถูกวิธี
 - เริ่มแรก เรารู้ว่าควรทำอะไร แต่ยังไม่รู้ว่าวิธีไหนดี 
-- เน้นไปที่วิธีการ (เราทำยังไงได้บ้าง แล้วควรทำแบบไหน) แล้วก็เริ่มลงมือทำละ
-Stage ที่สาม Develop
-- คิด solutions, หาความเป็นไปได้ต่าง ๆ จาก goal หรือ problem จาก stage ก่อนหน้า
-Stage ที่สี่ deliver
-- คือการสร้าง prototype และ implement
-- ผลลัพธ์คือ product หรือสภาวะของปัญหาที่ทุเลาลง จากการลงมือทำ
+- เน้นไปที่วิธีการ (เราทำยังไงได้บ้าง แล้วควรทำแบบไหน) แล้วก็เริ่มลงมือทำละ. 
+
+
 
 - ![picture](https://miro.medium.com/v2/resize:fit:640/format:webp/1*mHJAs51hJBOaiKN7pkHbHg.jpeg)
 
